@@ -1,5 +1,6 @@
 # OBSOLETE
-## Service not used. Use KeyCloak and Kong API Gateway
+## Service not used
+## Use KeyCloak and Kong API Gateway
 
 # login-service
 
