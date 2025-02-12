@@ -1,3 +1,6 @@
+# OBSOLETE
+## Service not used. Use KeyCloak and Kong API Gateway
+
 # login-service
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
